@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kpelzel/static/css/main.d1b05096.chunk.css",
+    "main.js": "/kpelzel/static/js/main.f1bc76ad.chunk.js",
+    "main.js.map": "/kpelzel/static/js/main.f1bc76ad.chunk.js.map",
+    "runtime-main.js": "/kpelzel/static/js/runtime-main.0284db29.js",
+    "runtime-main.js.map": "/kpelzel/static/js/runtime-main.0284db29.js.map",
+    "static/js/2.250dc4af.chunk.js": "/kpelzel/static/js/2.250dc4af.chunk.js",
+    "static/js/2.250dc4af.chunk.js.map": "/kpelzel/static/js/2.250dc4af.chunk.js.map",
+    "index.html": "/kpelzel/index.html",
+    "precache-manifest.334caecd37623167a117baa83e7615c0.js": "/kpelzel/precache-manifest.334caecd37623167a117baa83e7615c0.js",
+    "service-worker.js": "/kpelzel/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/kpelzel/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.250dc4af.chunk.js.LICENSE": "/kpelzel/static/js/2.250dc4af.chunk.js.LICENSE",
+    "static/media/logo.svg": "/kpelzel/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0284db29.js",
+    "static/js/2.250dc4af.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f1bc76ad.chunk.js"
+  ]
+}
